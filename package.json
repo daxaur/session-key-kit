@@ -1,0 +1,16 @@
+{
+  "name": "session-key-kit",
+  "version": "0.1.0",
+  "description": "toolkit for implementing session keys in your dapp",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "session-keys",
+    "web3",
+    "ethereum",
+    "automation",
+    "security"
+  ],
+  "author": "dax",
+  "license": "MIT"
+}
